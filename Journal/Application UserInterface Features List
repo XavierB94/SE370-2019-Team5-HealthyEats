@@ -1,0 +1,43 @@
+                                                     User Interface Features (Raw Data)
+ Log In
+●	Authenticate username and password
+●	Open Forget Password/Username
+●	Open Sign Up Page
+●	Cancel application
+●	Open Home Page
+
+Sign Up
+●	Create user profile
+●	Check user profile if it exists
+●	Cancel Sign Up Form
+
+Forget Password/Forgot Username
+●	Check user’s first name, last name, and birthday
+●	Get username
+●	Get password
+
+Home Page
+●	Retrieve restaurants per current location and medical info of user
+●	Retrieve favorite restaurants
+●	Search Restaurant
+●	Retrieve restaurant’s map
+●	Retrieve Restaurant’s food menu
+●	Open Setting
+●	Cancel Button
+
+Favorites
+●	Retrieve favorite restaurants
+●	Retrieve restaurant’s map
+●	Retrieve Restaurant’s food menu
+●	Retrieve Restaurant’s website
+●	Return to home page
+
+Medical Profile
+●	Add medical information
+●	Delete medical information
+●	Return to Home Page
+
+Setting
+●	Update user profile
+●	Check user profile if it exists
+●	Cancel Sign Up Form
